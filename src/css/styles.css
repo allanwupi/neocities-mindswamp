@@ -12,6 +12,10 @@ a:visited {
   color: #E67E80; /* Changes the text color */
   text-decoration: none; /* Removes the underline */
 }
+.htab {
+display: inline-block;
+width: 4vh; /* Adjust the gap size here */
+}
 h1, h2 {
     color: #A7C080;
 }

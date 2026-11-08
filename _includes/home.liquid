@@ -7,11 +7,13 @@
 </head>
 <body>
     <h1>{{ pageTitle }}</h1>
-    {{ content }}
+    <h3><em>{{ subtitle }}</em></h3>
 
     <h2><em>Quote of the Day</em></h2>
     <blockquote>
     <p>&quot;<em>{{ quoteOfTheDay }}</em>&quot;</p>
     <p>–{{ quoteSource }}</p>
     </blockquote>
+    
+    {{ content }}
 </body>
