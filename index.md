@@ -1,7 +1,7 @@
 ---
 layout: home.liquid
 pageTitle: Welcome to the Mind Swamp
-subtitle: The scattered notes and thoughts of a computer science and electrical engineering student (like a digital garden, but messier).
+subtitle: The scattered notes and thoughts of a computer science and electrical engineering student.
 quoteOfTheDay: A drunk man will find his way home, but a drunk bird may get lost forever.
 quoteSource: Shizuo Kakutani
 ---
@@ -13,7 +13,10 @@ quoteSource: Shizuo Kakutani
             <span class="htab"></span>
             <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
         </h3>
-        <span class="htab"></span>{{ post.date | date: "%Y-%m-%d" }}
+    </em>
+    <em>
+        <span class="htab"></span>
+        {{ post.date | date: "%Y-%m-%d" }}
     </em>
 {% endfor %}
 
@@ -24,7 +27,10 @@ quoteSource: Shizuo Kakutani
             <span class="htab"></span>
             <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
         </h3>
-        <span class="htab"></span>{{ post.date | date: "%Y-%m-%d" }}
+    </em>
+    <em>
+        <span class="htab"></span>
+        {{ post.date | date: "%Y-%m-%d" }}
     </em>
 {% endfor %}
 
@@ -35,6 +41,9 @@ quoteSource: Shizuo Kakutani
             <span class="htab"></span>
             <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
         </h3>
-        <span class="htab"></span>{{ post.date | date: "%Y-%m-%d" }}
+    </em>
+    <em>
+        <span class="htab"></span>
+        {{ post.date | date: "%Y-%m-%d" }}
     </em>
 {% endfor %}
