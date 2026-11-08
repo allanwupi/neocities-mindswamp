@@ -1,2 +1,7 @@
 # neocities-mindswamp
-Personal website for my scattered notes and thoughts
+A personal website for my scattered notes and thoughts.
+
+To run Eleventy:
+```bash
+npx @11ty/eleventy
+```
