@@ -1,0 +1,26 @@
+/* Everforest: https://github.com/sainnhe/everforest */
+body {
+    background-color: #272E33;
+    color: #9DA9A0;
+    margin: 5vh 8vw; 
+}
+a:active {
+  color: white; /* Turns red the exact instant it is clicked */
+  font-weight: bold;
+}
+a:visited {
+  color: #E67E80; /* Changes the text color */
+  text-decoration: none; /* Removes the underline */
+}
+h1, h2 {
+    color: #A7C080;
+}
+h3 {
+    color: #DBBC7F;
+}
+h3 {
+    color: #7FBBB3;
+}
+p {
+    color: #D3C6AA;
+}

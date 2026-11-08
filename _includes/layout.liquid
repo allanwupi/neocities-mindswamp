@@ -3,8 +3,10 @@
 <head>
     <meta charset="utf-8">
     <title>Mind Swamp</title>
+    <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
     <h1>{{ pageTitle }}</h1>
+    <em>{{ page.date | date: "%Y-%m-%d" }}</em>
     {{ content }}
 </body>
