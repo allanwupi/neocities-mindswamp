@@ -4,6 +4,7 @@
   "description": "A personal website for my scattered notes and thoughts.",
   "main": "index.js",
   "scripts": {
+    "build": "eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
