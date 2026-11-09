@@ -1,5 +1,5 @@
 ---
 pageTitle: Board Games
-tags: fun and games
+tags: fun & games
 ---
 Placeholder text

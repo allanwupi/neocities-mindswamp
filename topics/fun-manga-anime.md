@@ -1,5 +1,5 @@
 ---
 pageTitle: Manga & Anime
-tags: fun and games
+tags: fun & games
 ---
 Placeholder text

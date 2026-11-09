@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mind Swamp</title>
     <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
     <h1>{{ pageTitle }}</h1>
     <em>{{ page.date | date: "%Y-%m-%d" }}</em>
+
+    <hr>
+    
     {{ content }}
+
+    <hr>
+    
+    <footer><a href="/">Home</a></footer>
 </body>

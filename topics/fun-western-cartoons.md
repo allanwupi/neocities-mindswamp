@@ -1,5 +1,5 @@
 ---
 pageTitle: Western Cartoons
-tags: fun and games
+tags: fun & games
 ---
 Placeholder text

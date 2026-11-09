@@ -2,7 +2,16 @@
 body {
     background-color: #272E33;
     color: #9DA9A0;
-    margin: 5vh 8vw; 
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    margin-left: 12vw;
+    margin-right: 18vw;
+}
+p {
+    color: #D3C6AA;
+}
+a {
+    color: #83C092;
 }
 a:active {
   color: white; /* Turns red the exact instant it is clicked */
@@ -25,9 +34,16 @@ h3 {
 h3 {
     color: #7FBBB3;
 }
-a {
-    color: #83C092;
+hr {
+    border: none;
+    height: 1px;
+    background-color: #9DA9A0;
+    margin-top: 1vw;
+    margin-bottom: 1.5vw;
 }
-p {
-    color: #D3C6AA;
+ul {
+    list-style-type: square;
+}
+li + li {
+    margin-top: 1vw;
 }

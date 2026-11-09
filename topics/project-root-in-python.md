@@ -1,5 +1,5 @@
 ---
 pageTitle: Programming Root in Python
-tags: personal projects
+tags: projects
 ---
 Placeholder text

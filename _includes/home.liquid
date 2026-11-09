@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mind Swamp</title>
     <link rel="stylesheet" href="/css/styles.css">
 </head>
@@ -9,11 +9,28 @@
     <h1>{{ pageTitle }}</h1>
     <h3><em>{{ subtitle }}</em></h3>
 
+    <hr>
+
+    <h2><em>My Current Obsessions</em></h2>
+    <ul>
+        <li>Reading: <em>{{ currentlyReading }}</em> </li>
+        <li>Watching: <em>{{ currentlyWatching }}</em> </li>
+        <li>Playing: <em>{{ currentlyPlaying }}</em> </li>
+    </ul>
+
     <h2><em>Quote of the Day</em></h2>
     <blockquote>
     <p>&quot;<em>{{ quoteOfTheDay }}</em>&quot;</p>
     <p>–{{ quoteSource }}</p>
     </blockquote>
+
+    <hr>
     
     {{ content }}
+
+    <hr>
+    
+    <footer>
+        <em>Last Update: {{ page.date | date: "%Y-%m-%d" }}</em>
+    </footer>
 </body>

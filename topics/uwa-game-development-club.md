@@ -1,5 +1,5 @@
 ---
 pageTitle: Game Development UWA
-tags: uni and work
+tags: uni & work
 ---
 Placeholder text
