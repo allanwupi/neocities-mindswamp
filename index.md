@@ -15,9 +15,9 @@ currentlyWatching: Ranma 1/2
 <ul>
 {%- for post in collections['uni & work'] -%}
     <li>
-        <em><h3>
+        <em><b>
                 <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
-        </h3></em>
+        </b></em>
     </li>
 {%- endfor -%}
 </ul>
@@ -26,9 +26,9 @@ currentlyWatching: Ranma 1/2
 <ul>
 {%- for post in collections['projects'] -%}
     <li>
-        <em><h3>
+        <em><b>
                 <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
-        </h3></em>
+        </b></em>
     </li>
 {%- endfor -%}
 </ul>
@@ -37,9 +37,9 @@ currentlyWatching: Ranma 1/2
 <ul>
 {%- for post in collections['fun & games'] -%}
     <li>
-        <em><h3>
+        <em><b>
                 <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
-        </h3></em>
+        </b></em>
     </li>
 {%- endfor -%}
 </ul>

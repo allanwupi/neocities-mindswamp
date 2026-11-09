@@ -1,49 +1,71 @@
 /* Everforest: https://github.com/sainnhe/everforest */
 body {
-    background-color: #272E33;
-    color: #9DA9A0;
+    background-color: #272e33;
+    color: #9da9a0;
     margin-top: 5vh;
     margin-bottom: 5vh;
     margin-left: 12vw;
-    margin-right: 18vw;
+    margin-right: 12vw;
 }
 p {
-    color: #D3C6AA;
+    color: #d3c6aa;
 }
-a {
-    color: #83C092;
-}
-a:active {
-  color: white; /* Turns red the exact instant it is clicked */
-  font-weight: bold;
-}
-a:visited {
-  color: #E67E80; /* Changes the text color */
-  text-decoration: none; /* Removes the underline */
-}
-.htab {
-display: inline-block;
-width: 4vh; /* Adjust the gap size here */
-}
+
+/* Heading styles */
 h1, h2 {
-    color: #A7C080;
+    color: #a7c080;
 }
 h3 {
-    color: #DBBC7F;
+    color: #dbbc7f;
 }
 h3 {
-    color: #7FBBB3;
+    color: #7fbbb3;
 }
 hr {
     border: none;
     height: 1px;
-    background-color: #9DA9A0;
-    margin-top: 1vw;
-    margin-bottom: 1.5vw;
+    background-color: #7a8478;
+    margin-top: 1vh;
+    margin-bottom: 1.5vh;
 }
+
+/* Hyperlink styling */
+a {
+    color: #83c092;
+}
+a:active {
+  color: white;
+}
+a:visited {
+  color: #e67e80;
+}
+
+.htab {
+display: inline-block;
+width: 4vh; /* Adjust the gap size here */
+}
+
+/* List styling */
 ul {
     list-style-type: square;
 }
 li + li {
     margin-top: 1vw;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 600px; /* Forces the table to maintain full layout on small screens */
+}
+th {
+    background: #a7c080;
+    color: #272e33;
+}
+th, td {
+    padding: 0.5vh;
+    text-align: left;
+    border-bottom: 1px solid #3c4841;
+    white-space: nowrap;
 }
