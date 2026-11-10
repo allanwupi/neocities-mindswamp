@@ -22,10 +22,10 @@ Animal studies are an important step in testing new drugs, materials and medical
 - **Majors**: [A&RE, BiomedE, EEE]
 - **Max Students**: 1
 
-## Prerequisite Knowledge and Skills
+### Prerequisite Knowledge and Skills
 Students should have basic circuit knowledge, some programming experience with Arduino, Python or MATLAB, and an interest in practical electronics and prototype testing. Familiarity with signal processing would be helpful, but previous experience with optical sensing or printed electronics is not required.
 
-## Project Description
+### Project Description
 Monitoring blood oxygen during sleep can help identify breathing problems associated with sleep disorders. This project will develop a flexible reflectance pulse oximetry sensor, using red and infrared light sources and a photodetector to measure light reflected from the skin. We are seeking one thesis student to combine these optical components with printed conductive tracks to create a thin, flexible sensing patch.  Using the NOVA and V-One electronics printers, the student will build and test the patch, record pulse signals and explore blood oxygen estimation. They will also investigate how bending and movement affect signal quality.
 
 ## 113. 3D-Printed Flexible Strain Sensors for Breathing Pattern Monitoring 
@@ -34,10 +34,10 @@ Monitoring blood oxygen during sleep can help identify breathing problems associ
 - **Majors**: [A&RE, BiomedE, EEE, MechE]
 - **Max Students**: 1
 
-## Prerequisite Knowledge and Skills
+### Prerequisite Knowledge and Skills
 Students should have a background in engineering, mechatronics, biomedical engineering, electronics, or a related discipline. Basic knowledge of electronics, sensors, and programming is desirable. Familiarity with Arduino programming, PCB design or simulation, CAD software, and Python programming for data acquisition or visualisation would be advantageous but is not essential. An interest in wearable technologies, sensor development, and biomedical applications, together with strong problem-solving skills and a willingness to learn new technologies, is expected.
 
-## Project Description
+### Project Description
 APEX Heart Lab is looking for motivated Honours/Master’s students to join our wearable technology research team. This project focuses on the development of flexible printed strain sensors for wearable breathing-pattern monitoring applications. The work will involve electronic printing technologies, flexible sensor fabrication, and evaluation of electrical response and sensing accuracy under different testing conditions. Students will gain hands-on experience with advanced manufacturing, sensor development, and wearable technology research while working alongside a multidisciplinary team and accessing research facilities at the Harry Perkins Institute of Medical Research and clinical environments at Fiona Stanley Hospital. The project is related to broader wearable technology applications involving physiological and cardiopulmonary monitoring.
 
 ## 17. Soil sensing over long distances using time domain reflectometry
