@@ -4,7 +4,7 @@ tags: uni & work
 ---
 Below I have listed some interesting E&E Engineering Honours Projects on offer, starting Semester 1, 2027. I will need to write emails to the professors as soon as possible...
 
-## 117. Smart Camera-Based Monitoring of Laboratory Animal Activity
+## 117. Smart camera-based monitoring of laboratory animal activity
 - Supervisor: [Prof Girish Dwivedi](https://research-repository.uwa.edu.au/en/persons/girish-dwivedi/)
 - Contact: girish.dwivedi@perkins.uwa.edu.au
 - Majors: [A&RE, BiomedE, EEE]
@@ -28,7 +28,7 @@ Python, understanding of time and frequency domain signals.
 ### Project Description
 The goal of this project is to evaluate soil sensors and calibrate them using a newly developed time domain reflectometry (TDR) system. The system uses a vector network analyser which is programmed via Python. The goal is to  extract data over long distances (potentially 500m with many sensors) and over time (many weeks) to determine if this approach can yield reliable data. After initial calibration and testing, opportunities to work on field testing is available.
 
-## 121. Live Health Tracking of Power Transformers for Maximization of Grid Performance and Failure Prevention
+## 121. Live health tracking of power transformers for maximization of grid performance and failure prevention
 - Supervisor: [Prof Victor Sreeram](https://research-repository.uwa.edu.au/en/persons/victor-sreeram/)
 - 2nd Supervisor: [Hesam Mohammadi](https://www.linkedin.com/in/hesam-mohammadi-29314a213/)
 - Contact 1: victor.sreeram@uwa.edu.au
@@ -37,7 +37,7 @@ The goal of this project is to evaluate soil sensors and calibrate them using a 
 - Max Students: 1
 
 ### Prerequisite Knowledge and Skills
-ELEC3016 Power and Machines
+Completion of ELEC3016 Power and Machines
 
 ### Project Description
 This project develops an intelligent virtual replica of a power transformer that acts like a real-time health tracker, continuously monitoring its condition much like a smartwatch tracks a person's vital signs. By evaluating live health data and surrounding temperatures, the digital twin calculates a real-time health score, allowing an automated computer program to safely unlock extra power delivery during high-demand surges without overworking the machine. This replaces outdated, rigid manufacturer guidelines with custom, health-driven limits, enabling utility companies to maximize their existing equipment, precisely predict when maintenance is needed, and prevent power interruptions.
