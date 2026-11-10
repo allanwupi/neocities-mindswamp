@@ -1,7 +1,7 @@
 ---
 layout: home.liquid
 pageTitle: Welcome to the Mind Swamp
-subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student at the University of Western Australia. Here you will find my scattered notes and thoughts.
+subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student at the University of Western Australia (UWA). Here you will find my scattered notes and thoughts.
 
 quoteOfTheDay: A drunk man will find his way home, but a drunk bird may get lost forever.
 quoteSource: Shizuo Kakutani
