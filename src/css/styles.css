@@ -8,16 +8,22 @@ body {
     margin-right: 12vw;
 }
 p {
+    color: #9da9a0;
+}
+blockquote p {
     color: #d3c6aa;
+}
+li {
+    color: #9da9a0;
 }
 
 /* Heading styles */
 h1, h2 {
     color: #a7c080;
 }
-h3 {
+/*h3 {
     color: #dbbc7f;
-}
+}*/
 h3 {
     color: #7fbbb3;
 }
