@@ -29,7 +29,7 @@ At the time of writing, my average mark in EEE units was 86.947.
 | 2026.1 | [ELEC4404](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC4404) | ***Signal Processing***                          | 75 | 75 | 6.0 |
 | 2026.1 | [ELEC4408](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC4408) | ***High Frequency Circuits and Systems***        | 79 | -- | 6.0 |
 | 2026.1 | [ELEC4505](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC4505) | ***Power System Analysis***                      | 81 | 87 | 7.0 |
-| 2026.2 | [GENG3403](https://www.handbooks.uwa.edu.au/unitdetails?code=GENG3403) | ***Control Engineering***                        | ?? | ?? | . |
+| 2026.2 | [GENG3402](https://www.handbooks.uwa.edu.au/unitdetails?code=GENG3402) | ***Control Engineering***                        | ?? | ?? | . |
 | 2026.2 | [ELEC4402](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC4402) | ***Communications Systems***                     | ?? | ?? | . |
 
 ## Thoughts on EEE at UWA
