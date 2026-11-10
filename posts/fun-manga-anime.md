@@ -3,9 +3,9 @@ pageTitle: Manga & Anime
 tags: fun & games
 ---
 
-## Rumiko Takashi
-I have read literally every single work by [Rumiko Takashi](https://en.wikipedia.org/wiki/Rumiko_Takahashi), a very famous mangaka and one of the wealthiest women in Japan. Takashi's manga are all slow-burn romantic comedies, ranging from sci-fi slapstick to martial arts slapstick to epic fantasy (slapstick). I have *not* watched all the anime adaptions yet, but will probably do so one day.
-1. *Urusei Yatsura* (I've also watched the original anime series)
+## Rumiko Takahashi
+I have read literally every single work by [Rumiko Takahashi](https://en.wikipedia.org/wiki/Rumiko_Takahashi), a very famous mangaka and one of the wealthiest women in Japan. Takahashi's manga are all slow-burn romantic comedies, ranging from sci-fi slapstick to martial arts slapstick to epic fantasy (slapstick). I have *not* watched all the anime adaptions yet, but will probably do so one day.
+1. *Urusei Yatsura* (I've also watched the original anime series and the first two movies)
 2. *Ranma 1/2* (ongoing anime on Netflix)
 3. *Maison Ikkoku*
 4. *Inuyasha*

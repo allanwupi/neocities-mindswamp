@@ -24,5 +24,5 @@ Games I have bought or pre-ordered and not played yet:
 
 Games I don't like very much:
 - *Kelp: Shark vs Octopus* (it's not very balanced)
-- *Spirit Island*
+- *Spirit Island* (too complicated, requires effective teamwork)
 - *Root* at player counts other than 4-5 players
