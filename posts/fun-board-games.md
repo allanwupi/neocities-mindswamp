@@ -6,8 +6,8 @@ I like to play board games. I am not very good at them, however.
 
 ## Leder Games
 Leder Games is great, or maybe Cole Werle is great? They make asymmetric games and I will buy every Root expansion ever.
-1. *Root: A Woodland Game of Might and Right*
-2. *Arcs: Conflict & Collapse in the Reach*
+1. [*Root: A Woodland Game of Might and Right*](https://www.therootdatabase.com/)
+2. [*Arcs: Conflict & Collapse in the Reach*](https://cmckenz87.github.io/ArcsFates/index.html)
 
 Actually I should just make a section about Root. Maybe later.
 
