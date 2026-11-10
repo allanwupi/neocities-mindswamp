@@ -16,7 +16,7 @@ At the time of writing (before 2026 semester 2 results), my average mark in CS u
 | 2024.1 | [CITS1003](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS1003) | ***Introduction to Cybersecurity***          | 90 | 83 | 7.0 |
 | 2024.2 | [CITS2002](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS2002) | ***Systems Programming***                    | 90 | 88 | 7.0 |
 | 2025.1 | [CITS2005](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS2005) | ***Object-Oriented Programming***            | 94 | 91 | 7.0 |
-| 2025.1 | [CITS2200](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS2200) | ***Data Structures and Algorithms***         | 90 | 88 | 7.0 |
+| 2025.1 | [CITS2200](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS2200) | ***Data Structures and Algorithms***         | 94 | 88 | 7.0 |
 | 2025.2 | [CITS2211](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS2211) | ***Discrete Structures***                    | 85 | 81 | 7.0 |
 | 2026.1 | [CITS3403](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS3403) | ***Agile Web Development***                  | 83 | 84 | 7.0 |
 | 2026.2 | [CITS3001](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS3001) | ***Advanced Algorithms***                    | ?? | ?? | . |
