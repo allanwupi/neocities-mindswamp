@@ -1,6 +1,6 @@
 ---
 layout: home.liquid
-pageTitle: Welcome to the Mind Swamp
+pageTitle: Welcome to my Mind Swamp
 subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student. Here you will find my scattered notes and thoughts.
 
 quoteOfTheDay: A drunk man will find his way home, but a drunk bird may get lost forever.
