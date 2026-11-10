@@ -4,7 +4,7 @@ tags: uni & work
 ---
 I am studying [Electrical & Electronic Engineering](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EELEC) for my Bachelor of Engineering (Honours) at UWA.
 
-At the time of writing, my average mark in EEE units was 86.947.
+At the time of writing (before 2026 semester 2 results), my average mark in EEE units was 86.947.
 
 ## Completed EEE Units
 *Links are to the UWA Handbook*.
@@ -19,7 +19,7 @@ At the time of writing, my average mark in EEE units was 86.947.
 | 2024.1 | [PHYS2003](https://www.handbooks.uwa.edu.au/unitdetails?code=PHYS2003) | ***Physics for Electrical Engineers***           | 93 | 93 | 7.0 |
 | 2024.1 | [STAT2063](https://www.handbooks.uwa.edu.au/unitdetails?code=STAT2063) | ***Probabilistic Methods & their Applications*** | 89 | 86 | 7.0 |
 | 2024.2 | [ELEC2311](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC2311) | ***Digital System Design***                      | 92 | 90 | 7.0 |
-| 2024.2 | [ELEC2003](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC2003) | ***Engineering Electrical Fundamentals***        | 90 | 87 | 7.0 |
+| 2024.2 | [ENSC2003](https://www.handbooks.uwa.edu.au/unitdetails?code=ENSC2003) | ***Engineering Electrical Fundamentals***        | 90 | 87 | 7.0 |
 | 2024.2 | [MATH3023](https://www.handbooks.uwa.edu.au/unitdetails?code=MATH3023) | ***Advanced Mathematics Applications***          | 88 | 93 | 7.0 |
 | 2025.1 | [ELEC3014](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC3014) | ***Electronic Materials and Devices***           | 90 | 94 | 7.0 |
 | 2025.1 | [ELEC3021](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC3021) | ***Circuits and Electronics***                   | 92 | -- | 7.0 |
@@ -33,4 +33,7 @@ At the time of writing, my average mark in EEE units was 86.947.
 | 2026.2 | [ELEC4402](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC4402) | ***Communications Systems***                     | ?? | ?? | . |
 
 ## Thoughts on EEE at UWA
-More to come...
+1. [Lu Jin](https://research-repository.uwa.edu.au/en/persons/lu-jin/) is the goat of electrical engineering at UWA. He lectures and facilitates ENSC2003, which runs both semesters, ELEC3015, ELEC4404, and used to teach ELEC4505 (past lecture recordings). In 2026 he also taught the first few workshops of GENG3402 for some reason.
+2. I took CITS1401, a Computer Science unit, but normally EE majors take [CITS2401](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS2401). I have a vague impression CITS2401 is harder (it covers more Python libraries like `matplotlib` and `numpy`), but I still don't know for sure.
+3. Despite my good academic record, I am consistently terrible at studying for my electrical engineering exams. In 2026 semester 1 I was pretty sure I failed the ELEC4404 and ELEC4505 exams, finishing about half the paper. I also struggle to believe I could have gotten a HD in ELEC4408. The simplest conclusion is that in higher-level engineering units, final exam marks get scaled heavily, but that's supposed to be against university policy...
+4. MATLAB is a *terrible* programming language and we should all just use Python instead.

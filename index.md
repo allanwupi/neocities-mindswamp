@@ -8,7 +8,7 @@ quoteSource: Shizuo Kakutani
 
 currentlyReading: Nothing much...
 currentlyPlaying: "Root: A Game of Woodland Might and Right"
-currentlyWatching: Ranma 1/2
+currentlyWatching: "Avatar: Seven Havens, Ranma 1/2"
 ---
 
 ## Uni & Work

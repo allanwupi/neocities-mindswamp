@@ -4,7 +4,7 @@ tags: uni & work
 ---
 I am studying [Computer Science](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CMPSC) as my Bachelor of Science major at UWA.
 
-At the time of writing, my average mark in CS units was 90.625.
+At the time of writing (before 2026 semester 2 results), my average mark in CS units was 90.625.
 
 ## Completed CS Units
 *Links are to the UWA Handbook*.
@@ -23,4 +23,10 @@ At the time of writing, my average mark in CS units was 90.625.
 | 2026.2 | [CITS3005](https://www.handbooks.uwa.edu.au/unitdetails?code=CITS3005) | ***Knowledge Representation***               | ?? | ?? | . |
 
 ## Thoughts on CS at UWA
-More to come...
+1. Everyone tells me that the Computer Science curriculum at UWA is garbage, but my experience has been pretty good? But I like to program, and the main reason I chose computer science was to have fun (computer science is also easier than engineering so it boosts my WAM).
+2. CITS2211, taught by Matthew Daggitt, and CITS3005, taught by Chelsea Edmonds, are some of my favourite units.
+3. However, Amitava Datta who teaches CITS2200, and also took over CITS2002 after Chris McDonald\* disappeared, is not very good at teaching.
+4. I still don't know exactly what happened to Chris, I guess he's happily retired now. His units' websites are still up though.
+5. In 2026 I started using GitHub Copilot since it was taught to us in the CITS3403 tutorials. This was objectively bad for my education; I barely learnt anything in the first half of that unit (frontend web development). The second half (backend) was taught by Matthew though and that was fine.
+
+\*See https://notes.zachmanson.com/chris-mcdonald/
