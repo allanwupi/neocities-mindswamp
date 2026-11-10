@@ -11,17 +11,18 @@ Leder Games is great, or maybe Cole Werle is great? They make asymmetric games a
 
 Actually I should just make a section about Root. Maybe later.
 
-I strongly recommend watching [Nevakanezah's Root strategy guides](https://www.youtube.com/watch?v=TPm85Sf7ugA&list=PLgmddIIcKYDHVBCt0sItFzaJhRwkowkaO).
+I highly recommend watching [Nevakanezah's Root strategy guides](https://www.youtube.com/watch?v=TPm85Sf7ugA&list=PLgmddIIcKYDHVBCt0sItFzaJhRwkowkaO).
 
 ## Other Board Games
 - *Air, Land & Sea*, and the standalone expansion *Spies, Lies & Supplies*
 - *The Old King's Crown* (you can play it [online](https://oldkingscrown.fly.dev/))
 
-Games I have bought or pre-ordered and not yet played, but am looking forwards to:
+Games I have bought or pre-ordered and not played yet:
 - *An Infamous Traffic*, 2nd edition
-- High Frontier
+- *High Frontier 4 All*
+- *Plants vs. Zombies: The Board Game*
 
-Games I *don't* like very much:
+Games I don't like very much:
 - *Kelp: Shark vs Octopus* (it's not very balanced)
 - *Spirit Island*
 - *Root* at player counts other than 4-5 players
