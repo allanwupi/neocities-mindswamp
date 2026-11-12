@@ -8,7 +8,7 @@ quoteText: Should array indices start at 0 or 1? My compromise of 0.5 was reject
 quoteSource: Stan Kelly-Bootle
 
 currentlyReading: "Introduction to Biomedical Engineering (3rd Edition)"
-currentlyPlaying: "Root, The Old King's Crown"
+currentlyPlaying: "Root, The Old King's Crown, Slay the Spire 2"
 currentlyWatching: "Ranma 1/2, Avatar: Seven Havens"
 ---
 
