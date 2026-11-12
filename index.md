@@ -7,9 +7,9 @@ subtitle: I'm Allan, a sleep-deprived computer science and electrical engineerin
 quoteText: Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 quoteSource: Stan Kelly-Bootle
 
-currentlyReading: "Introduction to Biomedical Engineering"
-currentlyPlaying: "The Old King's Crown, Root: A Game of Woodland Might and Right"
-currentlyWatching: "Avatar: Seven Havens, Ranma 1/2"
+currentlyReading: "Introduction to Biomedical Engineering (Third Edition)"
+currentlyPlaying: "Root, The Old King's Crown"
+currentlyWatching: "Ranma 1/2, Avatar: Seven Havens"
 ---
 
 ## Uni & Work
