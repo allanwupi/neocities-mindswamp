@@ -1,7 +1,9 @@
 ---
 pageTitle: Programming Root in Python
 tags: projects
+date: Last Modified
 ---
+
 A command-line Python version of the board game Root by Leder Games, focusing on implementing Clockwork bots, following the [Definitive Edition playtest boards](https://boardgamegeek.com/thread/2068034/better-bot-project-24082026-new-catalliancemolecro).
 
 GitHub repo here: [https://github.com/allanwupi/cl-root](https://github.com/allanwupi/cl-root)

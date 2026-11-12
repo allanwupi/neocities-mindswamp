@@ -1,7 +1,9 @@
 ---
 pageTitle: Electrical & Electronic Engineering
 tags: uni & work
+date: Last Modified
 ---
+
 I am studying [Electrical & Electronic Engineering](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EELEC) for my Bachelor of Engineering (Honours) at UWA.
 
 At the time of writing (before 2026 semester 2 results), my average mark in EEE units was 86.947.

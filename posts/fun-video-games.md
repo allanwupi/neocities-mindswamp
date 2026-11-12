@@ -1,6 +1,7 @@
 ---
 pageTitle: Video Games
 tags: fun & games
+date: Last Modified
 ---
 
 My favourite video game genres are **survival**, **simulation**, **rogue-likes**, and ***survival simulation rogue-likes***.

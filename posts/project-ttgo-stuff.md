@@ -1,7 +1,9 @@
 ---
 pageTitle: T-Display S3 Programs
 tags: projects
+date: Last Modified
 ---
+
 In **ELEC3020** Embedded Systems, we were provided a [LILYGO T-Display S3](https://lilygo.cc/products/t-display-s3) with these specs:
 - ESP32 microcontroller (plenty fast for everything I've done)
 - 1.9-inch LCD screen with 16-bit colour (non-touch version)

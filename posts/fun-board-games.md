@@ -1,6 +1,7 @@
 ---
 pageTitle: Board Games
 tags: fun & games
+date: Last Modified
 ---
 I like to play board games. I am not very good at them, however.
 

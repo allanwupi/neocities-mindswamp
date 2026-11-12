@@ -1,7 +1,9 @@
 ---
 pageTitle: Game Development UWA
 tags: uni & work
+date: Last Modified
 ---
+
 I am technically a member of the [Game Development club](https://www.uwastudentguild.com/clubs/gdu). I joined in September 2026 and have only attended a few things so far.
 
 ## Attended Club Events
