@@ -40,9 +40,6 @@ hr {
 a {
     color: #83c092;
 }
-a:active {
-  color: white;
-}
 a:visited {
   color: #e67e80;
 }
