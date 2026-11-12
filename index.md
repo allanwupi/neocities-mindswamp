@@ -2,7 +2,7 @@
 layout: home.liquid
 date: git Last Modified
 pageTitle: Welcome to the Mind Swamp
-subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student at the University of Western Australia (UWA). Here you will find my scattered notes and thoughts. This website is a work in progress.
+subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student at the University of Western Australia (UWA). Here you will find my scattered notes and thoughts.
 
 quoteText: Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 quoteSource: Stan Kelly-Bootle
