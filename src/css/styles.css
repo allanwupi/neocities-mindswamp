@@ -1,13 +1,12 @@
 /* Everforest: https://github.com/sainnhe/everforest */
 body {
     font-family: 'Times New Roman', serif;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     background-color: #272e33;
     color: #9da9a0;
-    margin-top: 5vh;
-    margin-bottom: 5vh;
-    margin-left: 12vw;
-    margin-right: 12vw;
+    width: 66%;
+    min-width: 400px;
+    margin: 0 auto;
 }
 p {
     color: #9da9a0;
