@@ -14,5 +14,5 @@ The microcontroller was required for the Sumo Bot, the group project in that uni
 
 In my spare time I've made a bunch of tiny toy programs (~100-200 lines) that run on the T-Display S3. The repos are all public.
 - [Diffusion-limited aggregation simulation that doubles as a countdown timer](https://github.com/allanwupi/ttgo-dla-timer)
-- [2-channel music player with piezo buzzers (plays Megalovania and The Legend by Toby Fox)](https://github.com/allanwupi/ttgo-music-player)
+- [2-channel music player with piezo buzzers (plays *MEGALOVANIA* and *The Legend* by Toby Fox)](https://github.com/allanwupi/ttgo-music-player)
 - [Snake game, rocket game, time data plotter and a bunch of other things](https://github.com/allanwupi/ttgo-games)
