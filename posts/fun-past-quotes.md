@@ -1,5 +1,5 @@
 ---
-pageTitle: Past Quotes of the Day
+pageTitle: Past Quotes of the Week
 tags: fun & games
 ---
 
@@ -7,4 +7,7 @@ tags: fun & games
 - A drunk man will find his way home, but a drunk bird may get lost forever. (Shizuo Kakutani)
 
 ## Fiction
-Nothing here yet...
+*Nothing here yet...*
+
+## People I Know
+*Nothing here yet...*
