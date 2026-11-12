@@ -1,7 +1,7 @@
 ---
 pageTitle: 2027 Honours Project Options
 tags: uni & work
-date: Last Modified
+date: git Last Modified
 ---
 
 Below I have listed some interesting E&E Engineering Honours Projects on offer, starting Semester 1, 2027. I will need to write emails to the professors as soon as possible...

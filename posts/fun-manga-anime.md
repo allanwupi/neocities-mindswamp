@@ -1,6 +1,7 @@
 ---
 pageTitle: Manga & Anime
 tags: fun & games
+date: git Last Modified
 ---
 
 ## Rumiko Takahashi

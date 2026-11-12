@@ -1,7 +1,9 @@
 ---
 pageTitle: Computer Science
 tags: uni & work
+date: git Last Modified
 ---
+
 I am studying [Computer Science](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CMPSC) as my Bachelor of Science major at UWA.
 
 At the time of writing (before 2026 semester 2 results), my average mark in CS units was 90.625.

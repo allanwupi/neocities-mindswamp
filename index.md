@@ -1,6 +1,6 @@
 ---
 layout: home.liquid
-date: last modified
+date: git Last Modified
 pageTitle: Welcome to the Mind Swamp
 subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student at the University of Western Australia (UWA). Here you will find my scattered notes and thoughts.
 

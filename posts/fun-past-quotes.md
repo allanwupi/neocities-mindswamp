@@ -1,7 +1,7 @@
 ---
 pageTitle: Past Quotes of the Week
 tags: fun & games
-date: Last Modified
+date: git Last Modified
 ---
 
 ## Non-Fiction

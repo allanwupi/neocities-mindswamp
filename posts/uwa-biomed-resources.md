@@ -1,7 +1,7 @@
 ---
 pageTitle: Biomedical Engineering Primer
 tags: uni & work
-date: Last Modified
+date: git Last Modified
 ---
 
 **Postgraduate researcher**: [Ebrahim Vahabli](https://research-repository.uwa.edu.au/en/persons/ebrahim-vahabli/)

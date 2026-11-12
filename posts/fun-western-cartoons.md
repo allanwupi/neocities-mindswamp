@@ -1,7 +1,9 @@
 ---
 pageTitle: Western Cartoons
 tags: fun & games
+date: git Last Modified
 ---
+
 I enjoy watching cartoons. Some of the cartoons I have watched, in no particular order, are:
 - *Gravity Falls*
 - *She-Ra and the Princesses of Power*

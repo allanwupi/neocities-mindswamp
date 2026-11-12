@@ -1,7 +1,7 @@
 ---
 pageTitle: Video Games
 tags: fun & games
-date: Last Modified
+date: git Last Modified
 ---
 
 My favourite video game genres are **survival**, **simulation**, **rogue-likes**, and ***survival simulation rogue-likes***.
@@ -13,7 +13,7 @@ My favourite video game genres are **survival**, **simulation**, **rogue-likes**
 2. [*Caves of Qud*](https://wiki.cavesofqud.com/wiki/Caves_of_Qud_Wiki) (322 hours)
 3. [*Slay the Spire 2*](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Main) (273 hours)
 4. [*Project Zomboid*](https://pzwiki.net/wiki/Project_Zomboid_Wiki) (205 hours)
-5. [*Root Digital*](https://rules.ledergames.com/) (169 hours)
+5. [*Root Digital*](https://www.therootdatabase.com/) (169 hours)
 6. [*Barotrauma*](https://barotraumagame.com/wiki/Main_Page) (123 hours)
 7. [*Kerbal Space Program*](https://wiki.kerbalspaceprogram.com/wiki/Main_Page) (105 hours)
 8. [*Slay the Spire*](https://slaythespire.wiki.gg/) (75 hours)
@@ -27,7 +27,8 @@ Note that this excludes playtime on the Nintendo Switch or mobile versions.
 2. [*Outer Wilds*](https://outerwilds.fandom.com/wiki/Outer_Wilds_Wiki) (I only played the alpha version but this game is definitely very good)
 3. [*Slay the Princess*](https://slay-the-princess.fandom.com/wiki/Slay_the_Princess_Wiki)
 4. [*Shelter 2*](https://sheltergame.fandom.com/wiki/Shelter_2)
-5. Literally everything by [Zachtronics](https://zachtronics.fandom.com/wiki/List_of_games) (it's assembly programming but fun)
+5. [*Animal Well*](https://animalwell.wiki.gg/)
+6. Literally everything by [Zachtronics](https://zachtronics.fandom.com/wiki/List_of_games) (it's assembly programming but fun)
 
 I have played [*Minecraft*](https://minecraft.wiki/), but I don't think I ever beat the Ender Dragon... Minecraft is a game that's more fun to watch than play.
 
