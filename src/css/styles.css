@@ -43,6 +43,9 @@ a {
 a:visited {
   color: #e67e80;
 }
+a:active {
+  color: #e5dfc5;
+}
 a:hover {
   color: #e5dfc5;
 }

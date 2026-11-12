@@ -4,10 +4,10 @@ tags: fun & games
 date: git Last Modified
 ---
 
-## Non-Fiction
-- A drunk man will find his way home, but a drunk bird may get lost forever. (Shizuo Kakutani)
+## Famous People
+- *A drunk man will find his way home, but a drunk bird may get lost forever.* (Shizuo Kakutani)
 
-## Fiction
+## Famous Characters
 *Nothing here yet...*
 
 ## People I Know
