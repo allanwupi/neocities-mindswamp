@@ -4,8 +4,8 @@ date: last modified
 pageTitle: Welcome to the Mind Swamp
 subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student at the University of Western Australia (UWA). Here you will find my scattered notes and thoughts.
 
-quoteOfTheDay: A drunk man will find his way home, but a drunk bird may get lost forever.
-quoteSource: Shizuo Kakutani
+quoteOfTheDay: Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+quoteSource: Stan Kelly-Bootle
 
 currentlyReading: Nothing much...
 currentlyPlaying: "Root: A Game of Woodland Might and Right"
