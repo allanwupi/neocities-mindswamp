@@ -64,7 +64,7 @@ ul {
     list-style-type: square;
 }
 li + li {
-    margin-top: 1.5vh;
+    margin-top: 1.3vh;
 }
 
 /* Table styling */
@@ -74,7 +74,7 @@ table {
     min-width: 250px; /* Forces the table to maintain full layout on small screens */
 }
 th, td {
-    padding: 0.3vh 0.8vw;
+    padding: 0.3vh 1vw;
     text-align: left;
     border-bottom: 1px solid #3c4841;
     white-space: nowrap;
