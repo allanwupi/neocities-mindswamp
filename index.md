@@ -14,7 +14,8 @@ currentlyWatching: "Ranma 1/2, Avatar: Seven Havens"
 
 ## Uni & Work
 <ul>
-{%- for post in collections['uni & work'] -%}
+{%- assign posts = collections['uni & work'] | sort: "date" | reverse -%}
+{%- for post in posts -%}
     <li>
         <em><b>
                 <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
@@ -25,7 +26,8 @@ currentlyWatching: "Ranma 1/2, Avatar: Seven Havens"
 
 ## Personal Projects
 <ul>
-{%- for post in collections['projects'] -%}
+{%- assign posts = collections['projects'] | sort: "date" | reverse -%}
+{%- for post in posts -%}
     <li>
         <em><b>
                 <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
@@ -36,7 +38,8 @@ currentlyWatching: "Ranma 1/2, Avatar: Seven Havens"
 
 ## Fun & Games
 <ul>
-{%- for post in collections['fun & games'] -%}
+{%- assign posts = collections['fun & games'] | sort: "date" | reverse -%}
+{%- for post in posts -%}
     <li>
         <em><b>
                 <a href="{{ post.url }}">{{ post.data.pageTitle }}</a>
