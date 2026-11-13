@@ -1,7 +1,7 @@
 ---
 pageTitle: Biomedical Engineering Primer
 tags: uni & work
-date: "2026-11-12T20:15:00+08:00"
+date: git Last Modified
 ---
 
 ## 113. 3D-Printed Flexible Strain Sensors for Breathing Pattern Monitoring 

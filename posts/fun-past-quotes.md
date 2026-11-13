@@ -1,7 +1,7 @@
 ---
 pageTitle: Past Quotes of the Week
 tags: fun & games
-date: "2026-11-12T21:39:00+08:00"
+date: git Last Modified
 ---
 
 ## Famous People

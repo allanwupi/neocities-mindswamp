@@ -1,7 +1,7 @@
 ---
 pageTitle: Board Games
 tags: fun & games
-date: "2026-11-13T21:11:00+08:00"
+date: git Last Modified
 ---
 I like to play board games. I am not very good at them, however.
 

@@ -1,7 +1,7 @@
 ---
 pageTitle: Western Cartoons
 tags: fun & games
-date: "2026-11-12T19:47:00+08:00"
+date: git Last Modified
 ---
 
 I enjoy watching cartoons. Some of the cartoons I have watched, in no particular order, are:
