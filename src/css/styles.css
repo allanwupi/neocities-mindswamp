@@ -64,7 +64,7 @@ ul {
     list-style-type: square;
 }
 li + li {
-    margin-top: 1.2vh;
+    margin-top: 1.5vh;
 }
 
 /* Table styling */
