@@ -18,6 +18,9 @@ I also recommend these animes.
 1. *Orb: On the Movements of the Earth* (on Netflix)
 2. *Pluto* (on Netflix)
 3. *Frieren: Beyond Journey's End*
+4. *Fullmetal Alchemist: Brotherhood*
+
+Also everything by *Studio Ghibli* is good, obviously.
 
 I watched like 3 seasons of *Attack on Titan* but then I stopped. I dunno why.
 
