@@ -1,7 +1,7 @@
 ---
 pageTitle: Electrical & Electronic Engineering
 tags: uni & work
-date: git Last Modified
+date: "2026-11-13T21:11:00+08:00"
 ---
 
 I am studying [Electrical & Electronic Engineering](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EELEC) for my Bachelor of Engineering (Honours) at UWA.
@@ -13,8 +13,8 @@ At the time of writing (before 2026 semester 2 results), my average mark in EEE 
 
 | YEAR | CODE | TITLE | MARK |
 |------|------|-------|------|
-| 2023.1 | [GENG1010](https://www.handbooks.uwa.edu.au/unitdetails?code=GENG1010) | Introduction to Engineering                | 83 / -- |
-| 2023.1 | [MATH1011](https://www.handbooks.uwa.edu.au/unitdetails?code=MATH1011) | Multivariable Calculus                     | 91 / 86 |
+| 2023.1 | [`GENG1010`](https://www.handbooks.uwa.edu.au/unitdetails?code=GENG1010) | Introduction to Engineering                | 83 / -- |
+| 2023.1 | [`MATH1011`](https://www.handbooks.uwa.edu.au/unitdetails?code=MATH1011) | Multivariable Calculus                     | 91 / 86 |
 | 2023.1 | [PHYS1001](https://www.handbooks.uwa.edu.au/unitdetails?code=PHYS1001) | Physics for Scientists and Engineers       | 95 / 93 |
 | 2023.2 | [ELEC1303](https://www.handbooks.uwa.edu.au/unitdetails?code=ELEC1303) | Digital Systems                            | 86 / 80 |
 | 2023.2 | [MATH1012](https://www.handbooks.uwa.edu.au/unitdetails?code=MATH1012) | Mathematical Theory and Methods            | 95 / 94 |

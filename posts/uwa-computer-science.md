@@ -1,7 +1,7 @@
 ---
 pageTitle: Computer Science
 tags: uni & work
-date: git Last Modified
+date: "2026-11-13T21:11:00+08:00"
 ---
 
 I am studying [Computer Science](https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CMPSC) as my Bachelor of Science major at UWA.

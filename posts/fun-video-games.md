@@ -1,7 +1,7 @@
 ---
 pageTitle: Video Games
 tags: fun & games
-date: git Last Modified
+date: "2026-11-12T19:47:00+08:00"
 ---
 
 My favourite video game genres are **survival**, **simulation**, **rogue-likes**, and ***survival simulation rogue-likes***.
