@@ -2,7 +2,7 @@
 body {
     font-family: 'Times New Roman', serif;
     /*font-family: Helvetica, Arial, sans-serif;*/
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     background-color: #272e33;
     color: #9da9a0;
     width: 100%;
@@ -73,11 +73,11 @@ table {
     min-width: 250px; /* Forces the table to maintain full layout on small screens */
 }
 th, td {
-    padding: 0.3vh 1vw;
+    padding: 0.3vh 0.8vw;
     text-align: left;
     border-bottom: 1px solid #3c4841;
     white-space: nowrap;
-    font-size: 1rem;
+    font-size: 1.1rem;
 }
 th {
     background: #a7c080;
