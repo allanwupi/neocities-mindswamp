@@ -66,6 +66,9 @@ ul {
 li + li {
     margin-top: 1.3vh;
 }
+li > ul {
+    margin-top: 1.3vh;
+}
 
 /* Table styling */
 table {
