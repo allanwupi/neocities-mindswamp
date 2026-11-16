@@ -1,17 +1,23 @@
 ---
 pageTitle: Cellular Automata
-tags: uni & work
+tags: projects
 date: git Last Modified
 ---
 
-I think [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) are neat. From simple rules you can get really complex behaviour, Turing-completeness, and somewhat realistic models of physical phenomena.
+I think [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) (CAs) are neat. From simple rules you can get really complex behaviour, Turing-completeness, and somewhat realistic models of physical phenomena.
+
+Other than [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), some notable CAs are:
+- [Langton's ant](https://en.wikipedia.org/wiki/Langton's_ant)
+- [Rule 30 (pseudorandom number generation)](https://en.wikipedia.org/wiki/Rule_30)
+- [Rule 110 (Turing-complete)](https://en.wikipedia.org/wiki/Rule_110)
+- [Wireworld (used to simulate logic circuits)](https://mathworld.wolfram.com/WireWorld.html)
 
 Recently I read about [lattice-gas cellular automata](https://en.wikipedia.org/wiki/Lattice_gas_automaton), an early model for simulating fluid flows. I have spent the past couple days making a visualiser in Python: [https://github.com/allanwupi/lattice-gas-automata](https://github.com/allanwupi/lattice-gas-automata). The results are very pretty!
 
 ## [*Think Complexity*](https://allendowney.github.io/ThinkComplexity/index.html)
-This book has a lot of interesting simulations for complex systems, with Python programs using *numpy* and cross-correlation kernels. I am interested in implementing these 2D discrete models, mostly related to *cellular automata*.
+This book has a lot of interesting simulations for complex systems, with Python programs using *numpy* and cross-correlation kernels. I am interested in implementing these 2D discrete models, mostly related to CAs.
 - [Percolation cellular automaton](https://en.wikipedia.org/wiki/Percolation_theory)
 - [Drossel-Schwabl forest-fire model](https://en.wikipedia.org/wiki/Forest-fire_model)
 - [Abelian sand pile model](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
 - [Sugarscape (agent-based model)](https://en.wikipedia.org/wiki/Sugarscape)
-    - This last one isn't really a cellular automaton but it looks cool.
+    - This last one isn't actually a cellular automaton, but it looks cool.
