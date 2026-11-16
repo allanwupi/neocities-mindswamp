@@ -7,7 +7,7 @@ subtitle: I'm Allan, a sleep-deprived computer science and electrical engineerin
 quoteText: The generation of random numbers is too important to be left to chance.
 quoteSource: Robert R. Coveyou
 
-currentlyReading: "Introduction to Biomedical Engineering (3rd Edition)"
+currentlyReading: "Think Complexity, Introduction to Biomedical Engineering"
 currentlyPlaying: "Slay the Spire 2, The Old King's Crown, Root"
 currentlyWatching: "Ranma 1/2, Avatar: Seven Havens"
 ---
