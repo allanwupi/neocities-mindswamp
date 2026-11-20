@@ -17,9 +17,10 @@ This project suits mechatronics, electrical/electronic or biomedical engineering
 Animal studies are an important step in testing new drugs, materials and medical devices before human studies. Monitoring animals in their cages helps researchers understand their responses to treatments and identify changes in health or behaviour. This project aims to make monitoring easier and more consistent while reducing handling and disturbance. The student will help build and test a camera-based tracking system, assemble cameras and electronics, develop software to track movement, and evaluate performance under different conditions.
 
 ### Research Papers
-1. Paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220751
-2. PiE paper: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1222644/full 
-3. Paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286230
+1. [*Low-cost solution for rodent home-cage behaviour monitoring*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220751)
+2. [*PiE: an open-source pipeline for home cage behavioral analysis*](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1222644/full)
+3. [*Towards substitution of invasive telemetry: An integrated home cage concept for unobtrusive monitoring of objective physiological parameters in rodents*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286230)
+4. [*MouseVUER: video based open-source system for laboratory mouse home-cage monitoring*](https://www.nature.com/articles/s41598-024-52788-9)
 
 ## 113. 3D-Printed Flexible Strain Sensors for Breathing Pattern Monitoring 
 - **Supervisor**: Girish Dwivedi
