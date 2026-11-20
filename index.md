@@ -4,8 +4,8 @@ date: git Last Modified
 pageTitle: Welcome to the Mind Swamp
 subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student at the University of Western Australia (UWA). Here you will find my scattered notes and thoughts.
 
-quoteText: The generation of random numbers is too important to be left to chance.
-quoteSource: Robert R. Coveyou
+quoteText: Thou shalt not make a machine in the likeness of a human mind.
+quoteSource: Frank Herbert, Dune
 
 currentlyReading: "Think Complexity, Introduction to Biomedical Engineering"
 currentlyPlaying: "Slay the Spire 2, The Old King's Crown, Root"

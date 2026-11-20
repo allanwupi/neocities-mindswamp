@@ -4,6 +4,23 @@ tags: uni & work
 date: git Last Modified
 ---
 
+## 117. Smart camera-based monitoring of laboratory animal activity
+- **Supervisor**: [Prof Girish Dwivedi](https://research-repository.uwa.edu.au/en/persons/girish-dwivedi/)
+- **Contact**: [girish.dwivedi@perkins.uwa.edu.au](mailto:girish.dwivedi@perkins.uwa.edu.au)
+- **Majors**: [A&RE, BiomedE, EEE]
+- **Max Students**: 1
+
+### Prerequisite Knowledge and Skills
+This project suits mechatronics, electrical/electronic or biomedical engineering students who enjoy hands-on work, have basic programming skills and are willing to learn new techniques: Basic Python programming and an interest in camera-based tracking; Familiarity with electronics or platforms such as Arduino or ESP32; Willingness to assemble, test and troubleshoot a prototype; Experience with CAD, 3D printing or AI is helpful but not essential.
+
+### Project Description
+Animal studies are an important step in testing new drugs, materials and medical devices before human studies. Monitoring animals in their cages helps researchers understand their responses to treatments and identify changes in health or behaviour. This project aims to make monitoring easier and more consistent while reducing handling and disturbance. The student will help build and test a camera-based tracking system, assemble cameras and electronics, develop software to track movement, and evaluate performance under different conditions.
+
+### Research Papers
+1. Paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220751
+2. PiE paper: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1222644/full 
+3. Paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286230
+
 ## 113. 3D-Printed Flexible Strain Sensors for Breathing Pattern Monitoring 
 - **Supervisor**: Girish Dwivedi
 - **Contact**: [girish.dwivedi@perkins.uwa.edu.au](mailto:girish.dwivedi@perkins.uwa.edu.au)
