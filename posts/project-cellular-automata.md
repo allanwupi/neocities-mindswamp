@@ -21,3 +21,19 @@ This book has a lot of interesting simulations for complex systems, with Python 
 - [Abelian sand pile model](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
 - [Sugarscape (agent-based model)](https://en.wikipedia.org/wiki/Sugarscape)
     - This last one isn't actually a cellular automaton, but it looks cool.
+
+### Lattice Gas Automata
+Example of HPP lattice gas model with reflective walls:
+
+<div class="yt-container">
+<iframe src="https://www.youtube.com/embed/wII1XyQXPU8?si=8vL3teig2m7yoHCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+### Forest Fire Simulation
+Source code for T-Display S3: [https://github.com/allanwupi/ttgo-cellular](https://github.com/allanwupi/ttgo-cellular)
+
+Note that the video has been sped up 32 times (the simulation is quite intensive for the T-Display S3). 
+
+<div class="yt-container">
+<iframe src="https://www.youtube.com/embed/_hVeG83Q72k?si=8-k9L6qwAuRaDhFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
