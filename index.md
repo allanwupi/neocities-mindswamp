@@ -4,8 +4,8 @@ date: git Last Modified
 pageTitle: Welcome to the Mind Swamp
 subtitle: I'm Allan, a sleep-deprived computer science and electrical engineering student at the University of Western Australia (UWA). Here you will find my scattered notes and thoughts.
 
-quoteText: Thou shalt not make a machine in the likeness of a human mind.
-quoteSource: Frank Herbert, Dune
+quoteText: Ludwig Boltzmann, who spent much of his life studying statistical mechanics, died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics.
+quoteSource: David L. Goodstein, States of Matter
 
 currentlyReading: "Think Complexity, Introduction to Biomedical Engineering"
 currentlyPlaying: "Slay the Spire 2, The Old King's Crown, Root"

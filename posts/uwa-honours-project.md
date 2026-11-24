@@ -1,14 +1,15 @@
 ---
-pageTitle: 2027 Honours Project Options
+pageTitle: Engineering Honours Project
 tags: uni & work
 date: git Last Modified
 ---
 
-Below I have listed some interesting E&E Engineering Honours Projects on offer, starting Semester 1, 2027. I will need to write emails to the professors as soon as possible...
+At the time of writing, I have not yet confirmed my engineering honours project. I am very much leaning towards Project 117, which seems to be a practical electronics project.
 
 ## 117. Smart camera-based monitoring of laboratory animal activity
-- **Supervisor**: [Prof Girish Dwivedi](https://research-repository.uwa.edu.au/en/persons/girish-dwivedi/)
+- **Supervisor 1**: [Prof Girish Dwivedi](https://research-repository.uwa.edu.au/en/persons/girish-dwivedi/)
 - **Contact**: [girish.dwivedi@perkins.uwa.edu.au](mailto:girish.dwivedi@perkins.uwa.edu.au)
+- **Supervisor 2**: [Ebrahim Vahabli](https://research-repository.uwa.edu.au/en/persons/ebrahim-vahabli/)
 - **Majors**: [A&RE, BiomedE, EEE]
 - **Max Students**: 1
 
@@ -18,29 +19,24 @@ This project suits mechatronics, electrical/electronic or biomedical engineering
 ### Project Description
 Animal studies are an important step in testing new drugs, materials and medical devices before human studies. Monitoring animals in their cages helps researchers understand their responses to treatments and identify changes in health or behaviour. This project aims to make monitoring easier and more consistent while reducing handling and disturbance. The student will help build and test a camera-based tracking system, assemble cameras and electronics, develop software to track movement, and evaluate performance under different conditions.
 
-## 116. Flexible 3D-Printed Optical Sensor for Pulse and Blood Oxygen Monitoring
-- **Supervisor**: Girish Dwivedi
-- **Contact**: [girish.dwivedi@perkins.uwa.edu.au](mailto:girish.dwivedi@perkins.uwa.edu.au)
-- **Majors**: [A&RE, BiomedE, EEE]
-- **Max Students**: 1
+### Reading: Research Papers
+1. [*Low-cost solution for rodent home-cage behaviour monitoring*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220751)
+2. [*PiE: an open-source pipeline for home cage behavioral analysis*](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1222644/full)
+3. [*Towards substitution of invasive telemetry: An integrated home cage concept for unobtrusive monitoring of objective physiological parameters in rodents*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286230)
+4. [*MouseVUER: video based open-source system for laboratory mouse home-cage monitoring*](https://www.nature.com/articles/s41598-024-52788-9)
 
-### Prerequisite Knowledge and Skills
-Students should have basic circuit knowledge, some programming experience with Arduino, Python or MATLAB, and an interest in practical electronics and prototype testing. Familiarity with signal processing would be helpful, but previous experience with optical sensing or printed electronics is not required.
-
-### Project Description
-Monitoring blood oxygen during sleep can help identify breathing problems associated with sleep disorders. This project will develop a flexible reflectance pulse oximetry sensor, using red and infrared light sources and a photodetector to measure light reflected from the skin. We are seeking one thesis student to combine these optical components with printed conductive tracks to create a thin, flexible sensing patch.  Using the NOVA and V-One electronics printers, the student will build and test the patch, record pulse signals and explore blood oxygen estimation. They will also investigate how bending and movement affect signal quality.
-
-## 113. 3D-Printed Flexible Strain Sensors for Breathing Pattern Monitoring 
-- **Supervisor**: Girish Dwivedi
-- **Contact**: [girish.dwivedi@perkins.uwa.edu.au](mailto:girish.dwivedi@perkins.uwa.edu.au)
-- **Majors**: [A&RE, BiomedE, EEE, MechE]
-- **Max Students**: 1
-
-### Prerequisite Knowledge and Skills
-Students should have a background in engineering, mechatronics, biomedical engineering, electronics, or a related discipline. Basic knowledge of electronics, sensors, and programming is desirable. Familiarity with Arduino programming, PCB design or simulation, CAD software, and Python programming for data acquisition or visualisation would be advantageous but is not essential. An interest in wearable technologies, sensor development, and biomedical applications, together with strong problem-solving skills and a willingness to learn new technologies, is expected.
-
-### Project Description
-APEX Heart Lab is looking for motivated Honours/Master’s students to join our wearable technology research team. This project focuses on the development of flexible printed strain sensors for wearable breathing-pattern monitoring applications. The work will involve electronic printing technologies, flexible sensor fabrication, and evaluation of electrical response and sensing accuracy under different testing conditions. Students will gain hands-on experience with advanced manufacturing, sensor development, and wearable technology research while working alongside a multidisciplinary team and accessing research facilities at the Harry Perkins Institute of Medical Research and clinical environments at Fiona Stanley Hospital. The project is related to broader wearable technology applications involving physiological and cardiopulmonary monitoring.
+### Reading: Introduction to Biomedical Engineering
+- Chapter 1. Biomedical Engineering: A Historical Perspective
+- Chapter 2. Moral and Ethical Issues
+- Chapter 3. Anatomy and Physiology
+- Chapter 4. Biomechanics
+- Chapter 5. Biomaterials
+- Chapter 9. Bioinstrumentation
+- Chapter 10. Biomedical Sensors
+- Chapter 11. Biosignal Processing
+- Chapter 12. Bioelectric Phenomena
+- Chapter 16. Medical Imaging
+- Chapter 17. Biomedical Optics and Lasers
 
 ## 17. Soil sensing over long distances using time domain reflectometry
 - **Supervisor**: [Dr Adrian Keating](https://research-repository.uwa.edu.au/en/persons/adrian-keating/)
